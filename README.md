@@ -1,5 +1,5 @@
 ### About me
-**_7zip**
+my name is **_7zip**<br>
 I am a high-school student interested in programming.<br>
-I am good at java, and web development.
-currently i am learning python and c++.
+I am good at java, and web development.<br>
+currently i am learning python and c++.<br>
